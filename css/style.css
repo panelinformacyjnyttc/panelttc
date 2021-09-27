@@ -50,6 +50,7 @@ body{
 
 #information{
     display: flex;
+    justify-content: center;
     color: white;
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 35px;
