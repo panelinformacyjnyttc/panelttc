@@ -49,6 +49,7 @@ body{
 }
 
 #information{
+    display: flex;
     color: white;
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 35px;
