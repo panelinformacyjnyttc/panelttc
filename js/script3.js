@@ -2,7 +2,7 @@ function odliczanie()
 	{
 		var dzisiaj = new Date();
 		
-		var godzina = dzisiaj.getHours()+"1";
+		var godzina = 1 + dzisiaj.getHours();
 		if (godzina<10) godzina = "0"+godzina;
 		
 		var minuta = dzisiaj.getMinutes();
